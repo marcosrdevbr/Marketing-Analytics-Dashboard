@@ -105,7 +105,7 @@ Through this project, I developed practical experience in:
 
 ---
 
-# 👨‍💻 Author
+## 👨🏾‍💻 Author
 
 **Marcos Rogério da Silva**
 
