@@ -5,7 +5,7 @@
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-4B0082?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization%20Best%20Practices-F9A825?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-F9A825?style=for-the-badge)
 
 ## 📌 Project Overview
 
