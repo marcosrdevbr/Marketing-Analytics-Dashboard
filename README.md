@@ -1,5 +1,12 @@
 # 📊 Marketing Analytics Dashboard
 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-4B0082?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization%20Best%20Practices-F9A825?style=for-the-badge)
+
 ## 📌 Project Overview
 
 This project presents an interactive Tableau dashboard designed to analyze marketing campaign performance and support data-driven decision-making.
@@ -109,7 +116,7 @@ Through this project, I developed practical experience in:
 
 **Marcos Rogério da Silva**
 
-Trade Marketing | Business Intelligence | Data Analytics
+Trade Marketing | Trade Marketing | Business Intelligence | Data Analytics
 
 ### Connect with me
 
