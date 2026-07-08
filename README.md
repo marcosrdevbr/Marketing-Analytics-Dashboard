@@ -117,7 +117,7 @@ Through this project, I developed practical experience in:
 
 **Marcos Rogério da Silva**
 
-Trade Marketing | Trade Marketing | Business Intelligence | Data Analytics
+Trade Marketing | Merchandising | Business Intelligence | Data Analytics
 
 ### Connect with me
 
